@@ -1,0 +1,19 @@
+li {
+  list-style-type: none;
+  background-color: transparent;
+  border: 0px;
+}
+.tag-button {
+  border: 1px #ffffff solid;
+  border-radius: 8px;
+  padding: 5px;
+}
+.active {
+  background-color: #f3aa4e;
+  color: #ffffff;
+  border: 0px;
+}
+.in-active {
+  color: #ffffff;
+  background-color: transparent;
+}
